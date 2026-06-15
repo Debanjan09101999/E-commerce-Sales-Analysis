@@ -15,8 +15,9 @@ Recommended optimizing discount strategies, strengthening sales efforts in under
 • Pandas
 • Numpy
 • Seaborn
-• Matplot
+• Matplotlib
 • Jupyter Notebook
 • Data Cleaning
 • Data Visualizations
-Sapmle Documents - 
+
+Sapmle Documents - ![alt text](https://github.com/Debanjan09101999/E-commerce-Sales-Analysis/blob/main/python%203.png)
